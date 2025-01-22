@@ -1,3 +1,4 @@
 requests==2.31.0
 pandas==1.5.3
 python-dotenv==1.0.0  # Only if you're using .env files
+whois==0.9.24
