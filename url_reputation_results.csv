@@ -1,0 +1,4 @@
+url,region,virustotal,google_safebrowsing,abuseipdb,overall_status
+kooora.live-kooora.com,US,"{'url': 'kooora.live-kooora.com', 'positives': 0, 'total_scans': 96, 'scan_date': '2024-12-18 12:15:17', 'categories': 'N/A'}","{'url': 'kooora.live-kooora.com', 'status': 'No threats found'}","{'ip': '185.16.39.38', 'abuse_confidence_score': 0, 'total_reports': 0, 'last_reported_at': None}",Safe
+malicious-site.vn,Vietnam,"{'url': 'malicious-site.vn', 'status': 'Not found in VirusTotal'}","{'url': 'malicious-site.vn', 'status': 'No threats found'}","{'error': 'Unable to resolve IP', 'details': 'URL: malicious-site.vn'}",Inconclusive
+safe-site.jp,Japan,"{'url': 'safe-site.jp', 'status': 'Not found in VirusTotal'}","{'url': 'safe-site.jp', 'status': 'No threats found'}","{'error': 'Unable to resolve IP', 'details': 'URL: safe-site.jp'}",Inconclusive

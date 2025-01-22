@@ -1,0 +1,211 @@
+2025-01-22 11:16:42 - {
+    "url": "example.com",
+    "region": "US",
+    "virustotal": {
+        "url": "example.com",
+        "positives": 0,
+        "total_scans": 96,
+        "scan_date": "2025-01-22 09:06:04",
+        "categories": "N/A"
+    },
+    "google_safebrowsing": {
+        "url": "example.com",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "ip": "96.7.128.198",
+        "abuse_confidence_score": 0,
+        "total_reports": 0,
+        "last_reported_at": null
+    },
+    "overall_status": "Safe"
+}
+2025-01-22 11:16:45 - [ERROR] Unable to resolve IP: URL: malicious-site.vn
+2025-01-22 11:16:45 - {
+    "url": "malicious-site.vn",
+    "region": "Vietnam",
+    "virustotal": {
+        "url": "malicious-site.vn",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "malicious-site.vn",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: malicious-site.vn"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 11:16:49 - [ERROR] Unable to resolve IP: URL: safe-site.jp
+2025-01-22 11:16:49 - {
+    "url": "safe-site.jp",
+    "region": "Japan",
+    "virustotal": {
+        "url": "safe-site.jp",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "safe-site.jp",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: safe-site.jp"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 11:24:44 - {
+    "url": "example.com",
+    "region": "US",
+    "virustotal": {
+        "url": "example.com",
+        "positives": 0,
+        "total_scans": 96,
+        "scan_date": "2025-01-22 09:06:04",
+        "categories": "N/A"
+    },
+    "google_safebrowsing": {
+        "url": "example.com",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "ip": "96.7.128.198",
+        "abuse_confidence_score": 0,
+        "total_reports": 0,
+        "last_reported_at": null
+    },
+    "overall_status": "Safe"
+}
+2025-01-22 11:24:48 - [ERROR] Unable to resolve IP: URL: malicious-site.vn
+2025-01-22 11:24:48 - {
+    "url": "malicious-site.vn",
+    "region": "Vietnam",
+    "virustotal": {
+        "url": "malicious-site.vn",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "malicious-site.vn",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: malicious-site.vn"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 11:25:03 - [ERROR] Unable to resolve IP: URL: safe-site.jp
+2025-01-22 11:25:03 - {
+    "url": "safe-site.jp",
+    "region": "Japan",
+    "virustotal": {
+        "url": "safe-site.jp",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "safe-site.jp",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: safe-site.jp"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 11:59:42 - [ERROR] Invalid domain: The domain 'kooora.live-kooora.com/' is not valid.
+2025-01-22 11:59:46 - [ERROR] Unable to resolve IP: URL: malicious-site.vn
+2025-01-22 11:59:46 - {
+    "url": "malicious-site.vn",
+    "region": "Vietnam",
+    "virustotal": {
+        "url": "malicious-site.vn",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "malicious-site.vn",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: malicious-site.vn"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 11:59:49 - [ERROR] Unable to resolve IP: URL: safe-site.jp
+2025-01-22 11:59:49 - {
+    "url": "safe-site.jp",
+    "region": "Japan",
+    "virustotal": {
+        "url": "safe-site.jp",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "safe-site.jp",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: safe-site.jp"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 12:00:33 - {
+    "url": "kooora.live-kooora.com",
+    "region": "US",
+    "virustotal": {
+        "url": "kooora.live-kooora.com",
+        "positives": 0,
+        "total_scans": 96,
+        "scan_date": "2024-12-18 12:15:17",
+        "categories": "N/A"
+    },
+    "google_safebrowsing": {
+        "url": "kooora.live-kooora.com",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "ip": "185.16.39.38",
+        "abuse_confidence_score": 0,
+        "total_reports": 0,
+        "last_reported_at": null
+    },
+    "overall_status": "Safe"
+}
+2025-01-22 12:00:37 - [ERROR] Unable to resolve IP: URL: malicious-site.vn
+2025-01-22 12:00:37 - {
+    "url": "malicious-site.vn",
+    "region": "Vietnam",
+    "virustotal": {
+        "url": "malicious-site.vn",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "malicious-site.vn",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: malicious-site.vn"
+    },
+    "overall_status": "Inconclusive"
+}
+2025-01-22 12:00:40 - [ERROR] Unable to resolve IP: URL: safe-site.jp
+2025-01-22 12:00:40 - {
+    "url": "safe-site.jp",
+    "region": "Japan",
+    "virustotal": {
+        "url": "safe-site.jp",
+        "status": "Not found in VirusTotal"
+    },
+    "google_safebrowsing": {
+        "url": "safe-site.jp",
+        "status": "No threats found"
+    },
+    "abuseipdb": {
+        "error": "Unable to resolve IP",
+        "details": "URL: safe-site.jp"
+    },
+    "overall_status": "Inconclusive"
+}
